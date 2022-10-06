@@ -1,0 +1,7 @@
+{
+  "isCameraString": true,
+  "cameraPort": 0,
+  "cameraString": "",
+  "cameraTelloString": "udp://0.0.0.0:11111?overrun_nonfatal=1&fifo_size=1000",
+  "DroneName": "TELLO-FDCCA9"
+}

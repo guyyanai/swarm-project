@@ -1,0 +1,18 @@
+{
+    "yamlCalibrationPath": "../cameraConfigs/TELLO-FDCCA9.yaml",
+    "isCameraString": true,
+    "cameraPort": 0,
+    "cameraString": "udp://0.0.0.0:11111?overrun_nonfatal=1&fifo_size=1000",
+    "currentMarkerSize": 0.100,
+    "onlineVideoPath": "udp://0.0.0.0:11111?overrun_nonfatal=1&fifo_size=1000",
+    "droneName": "TELLO-DC9D6D",
+    "controllerConstants": { 
+        "idealX": 0.4,
+        "idealY": 0.1,
+        "idealZ": 1.6,
+        "xStepFactor": 20,
+        "yStepFactor": 35,
+        "zStepFactor": 40,
+        "tStepFactor": 45
+    }
+}
