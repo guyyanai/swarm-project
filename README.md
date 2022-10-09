@@ -6,7 +6,7 @@ This repository contains our Drone Swarm project which we developed as a part of
 
 ## Compile
 
-Under the root directory of the project, execute the following commands to compile the source code.
+Under the 'runAruco' directory located in the root directory of the project, execute the following commands to compile the source code.
 
 ```zsh
 mkdir build
